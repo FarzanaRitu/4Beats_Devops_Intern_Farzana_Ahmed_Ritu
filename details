@@ -1,0 +1,8 @@
+
+
+
+Column Renaming: The script now renames all five columns, keeping the first two columns (Index and Keyword) as they are, and renaming the rest to Search Term, Longest Option, and Shortest Option.
+
+Search Term Identification: The script correctly identifies the column containing the actual search terms and processes them with Selenium.
+
+Data Saving: After processing, the script saves the updated data back into the original Excel file under the correct sheet.
